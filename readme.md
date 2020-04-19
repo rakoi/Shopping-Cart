@@ -9,5 +9,5 @@
         :php artisan db:refresh --seed
 
 
-        <h1>Hail VUE JS</h1>
+        Hail VUE JS
 </p>
